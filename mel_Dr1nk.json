@@ -1,0 +1,128 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"5 cans of soda",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/drinkmodpack/5%20cans%20of%20soda/20221023024240-6354aa206d088.jpg",
+      "download":"https://sveg.xyz/mapzuu/drinkmodpack/5%20cans%20of%20soda/gazyava2exc0xjmgsl.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"Bar theme pack",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/drinkmodpack/Bar%20theme%20pack/20221023024209-6354aa011d012.jpg",
+      "download":"https://sveg.xyz/mapzuu/drinkmodpack/Bar%20theme%20pack/Bar2uqs24xsztq.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"Carbonated drinks",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/drinkmodpack/Carbonated%20drinks/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/drinkmodpack/Carbonated%20drinks/69b72c3b5716cab91231981135bae5c2142159.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Colorful Bottles",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/drinkmodpack/Colorful%20Bottles/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/drinkmodpack/Colorful%20Bottles/bottle.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Drinks Mod",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/drinkmodpack/Drinks%20Mod/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/drinkmodpack/Drinks%20Mod/Drinks.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Drinks pack",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/drinkmodpack/Drinks%20pack/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/drinkmodpack/Drinks%20pack/dae02b907657ca34913854787142675e152637.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Lean Drink",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/drinkmodpack/Lean%20Drink/20221023024257-6354aa315f38c.jpg",
+      "download":"https://sveg.xyz/mapzuu/drinkmodpack/Lean%20Drink/Lean_Drink023zcgqngqi.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"More Vials",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/drinkmodpack/More%20Vials/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/drinkmodpack/More%20Vials/Vial_Mod.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"Pack of drinks",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/drinkmodpack/Pack%20of%20drinks/20221023024224-6354aa1079e0d.jpg",
+      "download":"https://sveg.xyz/mapzuu/drinkmodpack/Pack%20of%20drinks/napitkird2zshremth.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"Soda drinks",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/drinkmodpack/Soda%20drinks/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/drinkmodpack/Soda%20drinks/cf52f1f0a3c9fab35f1a72e200b67926152209.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Soda in cans",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/drinkmodpack/Soda%20in%20cans/20221023024132-6354a9dc78dbb.jpg",
+      "download":"https://sveg.xyz/mapzuu/drinkmodpack/Soda%20in%20cans/drinksb1gsmz0qswk.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
