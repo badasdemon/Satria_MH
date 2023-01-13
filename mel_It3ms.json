@@ -1,0 +1,160 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Assault helmet",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Assault%20helmet/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Assault%20helmet/Assault_Helmet.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"Bucksmod",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Bucksmod/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Bucksmod/bucksmod.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"Drinks",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Drinks/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Drinks/Drinks.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Flashlight",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Flashlight/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Flashlight/FANAR.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Notebook",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Notebook/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Notebook/LapTop2___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Old barrels",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Old%20barrels/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Old%20barrels/bo4ki.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Pack on working mechanisms",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Pack%20on%20working%20mechanisms/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Pack%20on%20working%20mechanisms/mechanics_pak_by_deniand.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"Paint pack",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Paint%20pack/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/Hi-Tech%20two-story%20house/9c24a26d0d801c37987e3af3a5f46e19114615.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"PPG Machinery",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/PPG%20Machinery/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/PPG%20Machinery/PPG_Machinery_By_GuH.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"Pumpkin",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Pumpkin/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Pumpkin/Pumps.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Sandbag",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Sandbag/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Sandbag/sandbag.melmod.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"Soda drinks",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Soda%20drinks/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Soda%20drinks/Drinks.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"Toolgun",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Toolgun/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Toolgun/toolgun.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":14,
+      "name":"Two-Handed Hammer",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Two-Handed%20Hammer/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Two-Handed%20Hammer/TwoHanded_Hammer.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":15,
+      "name":"Welding machine Svarog",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Welding%20machine%20Svarog/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Welding%20machine%20Svarog/Svarog___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
