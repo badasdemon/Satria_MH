@@ -1,0 +1,131 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Aston Martin",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/recingmelonpack/Aston%20Martin/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/recingmelonpack/Aston%20Martin/Aston_Martin___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":2,
+      "name":"BMW M3 GT-R e46",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/recingmelonpack/BMW%20M3%20GT-R%20e46/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/recingmelonpack/BMW%20M3%20GT-R%20e46/Bmw_m3_GTR_e46___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":3,
+      "name":"BMW M5 F10",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/recingmelonpack/BMW%20M5%20F10/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/recingmelonpack/BMW%20M5%20F10/bmw_m5_f10_Maksim_4672.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":4,
+      "name":"DeLorean DMC-12",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/recingmelonpack/DeLorean%20DMC-12/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/recingmelonpack/DeLorean%20DMC-12/delorean_DMC_12___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Ford GT Race 2016",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/recingmelonpack/Ford%20GT%20Race%202016/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/recingmelonpack/Ford%20GT%20Race%202016/ford_gt_race_2016___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Lamborghini",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/recingmelonpack/Lamborghini/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/recingmelonpack/Lamborghini/lombargini___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Lamborghini countach",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/recingmelonpack/Lamborghini%20countach/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/recingmelonpack/Lamborghini%20countach/lamborghini_countach.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"Pixel Car Racing",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/recingmelonpack/Pixel%20Car%20Racing/20221023000306-635484ba5bfe9.jpg",
+      "download":"https://sveg.xyz/mapzuu/recingmelonpack/Pixel%20Car%20Racing/Pixel_Car_Racing_Modpackbanmor0hb1q.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"Porsche 911 Carrera Cabriolet",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/recingmelonpack/Porsche%20911%20Carrera%20Cabriolet/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/recingmelonpack/Porsche%20911%20Carrera%20Cabriolet/porsche_911_carrera_cabriolet.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"Save - Audi S8",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/recingmelonpack/Save%20-%20Audi%20S8/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/recingmelonpack/Save%20-%20Audi%20S8/audi_s8___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Tesla Roadster",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/recingmelonpack/Tesla%20Roadster/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/recingmelonpack/Tesla%20Roadster/tesla_roadster___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
