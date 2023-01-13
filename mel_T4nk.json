@@ -1,0 +1,160 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"BMP 2",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/BMP%202/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/BMP%202/bmp2___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"E100 heavy tank",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/E100%20heavy%20tank/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/E100%20heavy%20tank/1000E1000Otnn5min___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"PzKpfw IV",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/PzKpfw%20IV/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/PzKpfw%20IV/PzKpfw__IV___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Royal Tiger or Tiger 2",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/Royal%20Tiger%20or%20Tiger%202/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/Royal%20Tiger%20or%20Tiger%202/Tiger_2_P___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Save - Churchill 2",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/Save%20-%20Churchill%202/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/Save%20-%20Churchill%202/Churchill_2___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Save - Pz.kpfw. V Panther",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/Save%20-%20Pz.kpfw.%20V%20Panther/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/Save%20-%20Pz.kpfw.%20V%20Panther/pzkpfw_V_panther___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Save - Т80",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/Save%20-%20%D0%A280/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/Save%20-%20%D0%A280/T80___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"Sherman Jumbo",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/Sherman%20Jumbo/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/Sherman%20Jumbo/jumbo___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"Soviet heavy tank IS-2",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/Soviet%20heavy%20tank%20IS-2/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/Soviet%20heavy%20tank%20IS-2/IS_2___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"T 14 ARMATA",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/T%2014%20ARMATA/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/T%2014%20ARMATA/T_14_armata_by_foxel___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"T 28 tank",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/T%2028%20tank/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/T%2028%20tank/t28___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"T-84BM Oplot Tank",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/T-84BM%20Oplot%20Tank/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/T-84BM%20Oplot%20Tank/T84BM_OPLOT_NOEKRAN___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"T62",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/T62/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/T62/T62___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":14,
+      "name":"Tank Fv4005",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/Tank%20Fv4005/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/Tank%20Fv4005/fv4005___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":15,
+      "name":"Panzerkampfwagen VIII Maus",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/Panzerkampfwagen%20VIII%20Maus/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/Panzerkampfwagen%20VIII%20Maus/maus_ww2___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
