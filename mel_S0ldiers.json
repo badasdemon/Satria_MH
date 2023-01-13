@@ -1,0 +1,160 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Desert Soldiers",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/Desert%20Soldiers/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/Desert%20Soldiers/Soldados_deserticos_v.1.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"G.O.C soldier",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/G.O.C%20soldier/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/G.O.C%20soldier/39e4d640b95266b80da5938b2d29d4ea172054.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"German soldiers",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/German%20soldiers/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/German%20soldiers/415523e443a0fb2234bcbd9301f6e226154402.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Monument to the victory over the virus",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/Monument%20to%20the%20victory%20over%20the%20virus/20221023024313-6354aa41e7df6.jpg",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/Monument%20to%20the%20victory%20over%20the%20virus/virusrrvrzcdnnn3.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Pak on the Vietnam War",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/Pak%20on%20the%20Vietnam%20War/20221023023552-6354a888c5450.jpg",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/Pak%20on%20the%20Vietnam%20War/vietnam-war-by-the-foxanizfslqlcmfd.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Ravenfield pack",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/Ravenfield%20pack/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/Ravenfield%20pack/revenfild_pack.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Soldier",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/Soldier/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/Soldier/b4310b86c600d626d922a5ea87d188ee194121.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"soldier 2",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/soldier%202/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/soldier%202/e57dba332f88830435500812b1f2d9c3111633.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"soldier mod",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/soldier%20mod/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/soldier%20mod/c277b8e81bf73279d2fae97bf834d0fb113235.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"soldier pack",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/soldier%20pack/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/soldier%20pack/soldierpack.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Soldier npc",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/Soldier%20npc/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/Soldier%20npc/Soldiernpc.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"Soviet soldier",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/Soviet%20soldier/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/Soviet%20soldier/186f5f7dac14f1784b6b790532a4933d175758.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"Statue of a soldier",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/Statue%20of%20a%20soldier/20221023024313-6354aa41caf57.jpg",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/Statue%20of%20a%20soldier/comgruzpdzxuot.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":14,
+      "name":"USSR soldier",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/USSR%20soldier/20221023024143-6354a9e70afae.jpg",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/USSR%20soldier/USSR%20Warfare2usfkpkddgu.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":15,
+      "name":"War Corn Pack",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/soldiermodmelon/War%20Corn%20Pack/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/War%20Corn%20Pack/War_Corn_Pak.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
