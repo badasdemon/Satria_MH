@@ -35,68 +35,125 @@
   ],
   "Mods":
   [
-    {
+{
       "id":1,
-      "name":"",
+      "name":"Armor Car",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
-      "description":"https://aweu.net/MOD%20MELON/ueue.html"
-    }
-    ,
+      "image":"https://sveg.xyz/mapzuu/armourmelon/Armor%20Car/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/Armor%20Car/9056f54d8bef4fad767952cdd2de732f161559.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
     {
       "id":2,
-      "name":"",
+      "name":"Armour Hero",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
-      "description":"https://aweu.net/MOD%20MELON/ueue.html"
-    }
-    ,
+      "image":"https://sveg.xyz/mapzuu/armourmelon/Armor%20Hero/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/Armor%20Hero/56dc554c96f1e2551dc8d6558ae4e57e105203.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
     {
       "id":3,
-      "name":"",
+      "name":"Armored car",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
-      "description":"https://aweu.net/MOD%20MELON/ueue.html"
-    }
-    ,
+      "image":"https://sveg.xyz/mapzuu/armourmelon/Armored%20car/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/Armored%20car/f93c9fbcfb5a3a01add17523ab9a943e151147.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
     {
       "id":4,
-      "name":"",
+      "name":"Armored giant",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
-      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+      "image":"https://sveg.xyz/mapzuu/armourmelon/Armored%20giant/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/Armored%20giant/5569721abf87256c744ebd6efa6feccb170918.zip",
+      "description":"file:///android_asset/ueuew.html"
     }
-    ,
     {
       "id":5,
-      "name":"",
+      "name":"Arta with reactive armor",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
-      "description":"https://aweu.net/MOD%20MELON/ueue.html"
-    }
-    ,
+      "image":"https://sveg.xyz/mapzuu/armourmelon/Arta%20with%20reactive%20armor/20221023023544-6354a88010ade.jpg",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/Arta%20with%20reactive%20armor/artaipu0uyjs4y5.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
     {
       "id":6,
-      "name":"",
+      "name":"BTR-80",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
-      "description":"https://aweu.net/MOD%20MELON/ueue.html"
-    }
-    ,
+      "image":"https://sveg.xyz/mapzuu/armourmelon/BTR-80/20221023024152-6354a9f0219d2.jpg",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/BTR-80/BTR80q%E2%80%8Bcvtudjyoa1o.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
     {
       "id":7,
-      "name":"",
+      "name":"Gaz TIGR – Armored vehicle",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
-      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+      "image":"https://sveg.xyz/mapzuu/armourmelon/Gaz%20TIGR%20%E2%80%93%20Armored%20vehicle/20221023023513-6354a8617d9c7.jpg",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/Gaz%20TIGR%20%E2%80%93%20Armored%20vehicle/gaztigr.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"Heavy tank",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/armourmelon/Heavy%20tank/20221023024121-6354a9d146f35.jpg",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/Heavy%20tank/fast_tankzcy4fk5t5pb.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"Individual combat armor",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/armourmelon/Individual%20combat%20armor/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/Individual%20combat%20armor/1913e29952e4544f132b1ed096991913185747.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"Jagd Panzer E100",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/armourmelon/Jagd%20Panzer%20E100/20221023023541-6354a87ddf5da.jpg",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/Jagd%20Panzer%20E100/jagdpanzer_e100%E2%80%8Brlkqeppcqzp.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Pak on knightly paraphernalia",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/armourmelon/Pak%20on%20knightly%20paraphernalia/20221023023523-6354a86b91acc.jpg",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/Pak%20on%20knightly%20paraphernalia/knightsgweib0uwpcl.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"Panther 2",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/armourmelon/Panther%202/20221022235846-635483b620196.jpg",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/Panther%202/panther2%E2%80%8Babji3luse54.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"Tank BSN-1",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/armourmelon/Tank%20BSN-1/20221023024128-6354a9d8910d8.jpg",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/Tank%20BSN-1/bsn_1_8203ukxabrbbzpy.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":14,
+      "name":"Tiger 1",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/armourmelon/Tiger%201/20221023024131-6354a9db29c73.jpg",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/Tiger%201/tiger%E2%80%8Ba2t1j3znjwe.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":15,
+      "name":"ZIZH-6",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/armourmelon/ZIZH-6/20221022235757-635483856b6e9.jpg",
+      "download":"https://sveg.xyz/mapzuu/armourmelon/ZIZH-6/zizh6_zveroboy%E2%80%8Bnpt1h05h0gs.zip",
+      "description":"file:///android_asset/ueuew.html"
     }
-    
   ]
 }
