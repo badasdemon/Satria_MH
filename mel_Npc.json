@@ -1,0 +1,160 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"DOUGH-MAN",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/DOUGH-MAN/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/DOUGH-MAN/HOT_DOUGH.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"Npc - Doctor",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/Npc%20-%20Doctor/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/Npc%20-%20Doctor/Doctor_Melon.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"NPC - Patrick Bateman",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/NPC%20-%20Patrick%20Bateman/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/NPC%20-%20Patrick%20Bateman/Patrick_Bateman.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Npc - plum",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/Npc%20-%20plum/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/Npc%20-%20plum/nek_plum.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"NPC - Roronoa",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/NPC%20-%20Roronoa/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/NPC%20-%20Roronoa/MOD.RORONOAZORO.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"NPC Cosmic Entity",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/NPC%20Cosmic%20Entity/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/NPC%20Cosmic%20Entity/essence.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"NPC from the game Battlelands",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/NPC%20from%20the%20game%20Battlelands/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/NPC%20from%20the%20game%20Battlelands/NPS_IZ_Battlelands.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"NPC Man",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/NPC%20Man/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/NPC%20Man/Cheinsaw_Man.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"NPC Pirate",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/NPC%20Pirate/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/NPC%20Pirate/Pirate.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"NPS Commissar of the NKVD",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/NPS%20Commissar%20of%20the%20NKVD/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/NPS%20Commissar%20of%20the%20NKVD/2_5192711723966013387.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Pack of people",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/Pack%20of%20people/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/Pack%20of%20people/menfolks.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"Pack on New Year NPCs",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/Pack%20on%20New%20Year%20NPCs/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/Pack%20on%20New%20Year%20NPCs/new_year.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"Prisoner",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/Prisoner/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/Prisoner/Prisoner_Melon.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":14,
+      "name":"Realistic person",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/Realistic%20person/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/Realistic%20person/realistic_man.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":15,
+      "name":"Watermelon soldier",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/npcmelon/Watermelon%20soldier/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/npcmelon/Watermelon%20soldier/solditer_melon_by_Techno_Melon.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
