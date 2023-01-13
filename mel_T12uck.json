@@ -1,0 +1,160 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"All-terrain vehicle Caucasian 2",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/All-terrain%20vehicle%20Caucasian%202/20221023023554-6354a88a5d5d1.jpg",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/All-terrain%20vehicle%20Caucasian%202/gruz_2ljzwprfszhf.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"Avanta TS-3500 mini",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/Avanta%20TS-3500%20mini/20221022235740-63548374238cd.jpg",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/Avanta%20TS-3500%20mini/avanta_fura_mini%E2%80%8Bui53vpgz3c5.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"Crash test truck",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/Crash%20test%20truck/20221023024152-6354a9f00b85b.jpg",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/Crash%20test%20truck/SHEER%E2%80%8Bpfaksjwv0um.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Crawler truck",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/Crawler%20truck/20221023024116-6354a9cc3c137.jpg",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/Crawler%20truck/gruzlmsel5ejiz0.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Dump truck",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/Dump%20truck/20221023024153-6354a9f1980ff.jpg",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/Dump%20truck/Untitled%20Kamaz%20%E2%80%8Bhy1fvezxqgn.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Folstak MS-8",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/Folstak%20MS-8/20221023023527-6354a86f0db5d.jpg",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/Folstak%20MS-8/ms8folstak%E2%80%8Bqimgjnchhzl.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Hot Dog tow truck",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/Hot%20Dog%20tow%20truck/20221023023526-6354a86eeff3b.jpg",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/Hot%20Dog%20tow%20truck/evacyatorzno2wq3xoe1.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"Semitrailer tractor",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/Semitrailer%20tractor/20221023024149-6354a9ed12369.jpg",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/Semitrailer%20tractor/2_52557910711237413803gptywbtobt.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"Service cars",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/Service%20cars/20221023024127-6354a9d70c319.jpg",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/Service%20cars/jobcarc2txisl5yba.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"Three trucks",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/itemmelonpack/Pumpkin/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/itemmelonpack/Pumpkin/Pumps.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Trailer Truck",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/Three%20trucks/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/Three%20trucks/c1b12a3a8a1f1671a324fafdc67a4c3a185516.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"Truck",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/Truck/20221023024154-6354a9f21a98e.jpg",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/Truck/UCar%E2%80%8Bej1k3j3dfb0.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"Truck mod",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/Truck%20mod/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/Truck%20mod/e31dc41abe09d4fe44f2f8b43f164ed4163546.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":14,
+      "name":"Truck with a trailer",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/Truck%20with%20a%20trailer/20221023024304-6354aa38f0d4b.jpg",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/Truck%20with%20a%20trailer/Fura%20pricepsowtsbdhjta.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":15,
+      "name":"Truck with open trailer",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/truckmelonpack/Truck%20with%20open%20trailer/20221023024258-6354aa32966b5.jpg",
+      "download":"https://sveg.xyz/mapzuu/truckmelonpack/Truck%20with%20open%20trailer/TRUCKg550lswcigz.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
