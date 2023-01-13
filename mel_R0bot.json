@@ -1,0 +1,152 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Biodroid – biorobots",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/robotmelonpack/Biodroid%20%E2%80%93%20biorobots/20221023024135-6354a9df1c5b3.jpg",
+      "download":"https://sveg.xyz/mapzuu/robotmelonpack/Biodroid%20%E2%80%93%20biorobots/Biodroid%20Pack%20By%20GuHvbxkypkodca.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"Combat robot",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/drinkmodpack/Bar%20theme%20pack/20221023024209-6354aa011d012.jpg",
+      "download":"https://sveg.xyz/mapzuu/robotmelonpack/Combat%20robot/22af089b689ba8cca5b5105fe35c4445100922.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"Carbonated drinks",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/drinkmodpack/Carbonated%20drinks/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/drinkmodpack/Carbonated%20drinks/69b72c3b5716cab91231981135bae5c2142159.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Combat robot g47",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/robotmelonpack/Combat%20robot%20g47/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/robotmelonpack/Combat%20robot%20g47/c8c57d87462de03fcf550c046f27a4a1175751.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Future Japan Pak",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/robotmelonpack/Future%20Japan%20Pak/20221023024133-6354a9ddaa9e4.jpg",
+      "download":"https://sveg.xyz/mapzuu/robotmelonpack/Future%20Japan%20Pak/japan_of_the_future_from_yadze_kamikadze_dtik97gvjhcvmirpu.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Hammer robot",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/robotmelonpack/Hammer%20robot/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/robotmelonpack/Hammer%20robot/75ba871272f3adc0502de16ef4edf36e151448.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Movable Robotic Squid",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/robotmelonpack/Movable%20Robotic%20Squid/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/robotmelonpack/Movable%20Robotic%20Squid/821eeadb24a02accf778ddad262ba846101113.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"Pack of robots",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/robotmelonpack/Pack%20of%20robots/20221023024127-6354a9d7809d2.jpg",
+      "download":"https://sveg.xyz/mapzuu/robotmelonpack/Pack%20of%20robots/robo-pack%E2%80%8B0wonvpmaox3.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"Robot",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/robotmelonpack/Robot/20221023024144-6354a9e8f3894.jpg",
+      "download":"https://sveg.xyz/mapzuu/robotmelonpack/Robot/robot%20v2p1edpaoclpb.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"Robot pack",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/robotmelonpack/Robot%20pack/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/robotmelonpack/Robot%20pack/48a6acff6bbe7d9afd0bc1f39a9305f2151636.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Robot with batteries",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/robotmelonpack/Robot%20with%20batteries/20221023024215-6354aa07e4137.jpg",
+      "download":"https://sveg.xyz/mapzuu/robotmelonpack/Robot%20with%20batteries/robot12clxxdnfhg.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"Robot with cardiogram",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/robotmelonpack/Robot%20with%20cardiogram/20221023024139-6354a9e3178b3.jpg",
+      "download":"https://sveg.xyz/mapzuu/robotmelonpack/Robot%20with%20cardiogram/Robotdz2gyfbinhd.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"Robotic Skeleton",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/robotmelonpack/robotic%20skeleton/20221023024149-6354a9ed999ed.jpg",
+      "download":"https://sveg.xyz/mapzuu/robotmelonpack/robotic%20skeleton/RoboticMelonTr1%E2%80%8B5qog3uaksju.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":14,
+      "name":"Small robot",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/robotmelonpack/Small%20robot/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/robotmelonpack/Small%20robot/ec41a1393d7957f075d9fb05ec0d832a114855.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
