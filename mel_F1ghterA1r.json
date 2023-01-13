@@ -1,0 +1,160 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Aircraft carriers",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/Aircraft%20carriers/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/Aircraft%20carriers/694f53545f1d84bd3ff0c1e461af209a212906.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"Ef2000b typhoon",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/Ef2000b%20typhoon/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/Ef2000b%20typhoon/ef2000b_typhoon___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"F22 - Raptor",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/F22%20-%20Raptor/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/F22%20-%20Raptor/F22_Raptor___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"F35 fighter",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/F35%20fighter/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/F35%20fighter/9a5252529408859f1d2a081266d4223b112513.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Fighter",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/Fighter/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/Fighter/b44875f27e44d6cbe6e3a240fff3bb7e151328.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Fighter MiG 21",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/Fighter%20MiG%2021/20221023024236-6354aa1ccdad1.jpg",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/Fighter%20MiG%2021/MIG21woihmfs5ulk.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Helicopter Kargabob",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/Helicopter%20Kargabob/20221023024121-6354a9d14331e.jpg",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/Helicopter%20Kargabob/kargabobppbebydslae.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"Junkers 88",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/Junkers%2088/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/Junkers%2088/ju_88_q___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"Fighters",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/Fighters/20221023023540-6354a87c31d7f.jpg",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/Fighters/suburmencykh2mwt3al.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"Mechanical fighter",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/recingmelonpack/Save%20-%20Audi%20S8/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/recingmelonpack/Save%20-%20Audi%20S8/audi_s8___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Mi-1",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/Mi-1/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/Mi-1/machi___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"SU 22",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/SU%2022/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/SU%2022/SU22___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"Su 35",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/Su%2035/20221023024229-6354aa1568863.jpg",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/Su%2035/Sukhoi_su-35_by_breadduckbdnt322wduc.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":14,
+      "name":"Su-34 in different camouflages",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/Su-34%20in%20different%20camouflages/20221023024209-6354aa017e8fa.jpg",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/Su-34%20in%20different%20camouflages/su34oiwlhr2hlhl.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":15,
+      "name":"UH60 Black hawk",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/fightermelonpack/UH60%20Black%20hawk/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/UH60%20Black%20hawk/Uh60_black_hawk______40_2__41_.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
