@@ -1,0 +1,111 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Suzuki GSX R 1000",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/motorcyclemod/Suzuki%20GSX%20R%201000/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/motorcyclemod/Suzuki%20GSX%20R%201000/Suzuki%20GSX%20R%201000.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"ATV",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/motorcyclemod/ATV/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/motorcyclemod/ATV/KBadrik.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"BIKE",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/motorcyclemod/bike/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/motorcyclemod/bike/4auka.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"daytona",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/motorcyclemod/daytona/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/motorcyclemod/daytona/Daytona%20675.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":5,
+      "name":"Motobikes",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/motorcyclemod/motobikes/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/motorcyclemod/motobikes/motobikes.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Motor",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/motorcyclemod/Motor/maxresdefault.jpg",
+      "download":"https://sveg.xyz/mapzuu/motorcyclemod/Motor/MOTOR%2030.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Sport cross",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/motorcyclemod/sport%20cross/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/motorcyclemod/sport%20cross/Ktm.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"MOTOSE1987",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/motorcyclemod/MOTOSE1987/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/motorcyclemod/MOTOSE1987/MOTOSE1987.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"Utilited",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/motorcyclemod/utilited/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/motorcyclemod/utilited/Untitled%20motorycle.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
