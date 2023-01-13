@@ -1,0 +1,160 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+ {
+      "id":1,
+      "name":"Audi pack",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/Audi%20pack/audy.JPG",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/Audi%20pack/audi%20pack.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"BMW E34",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/BMW%20E34/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/BMW%20E34/bmw_e34___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"BMW e60",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/Ford%20crown%20Victoria/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/Ford%20crown%20Victoria/Ford_crown_Victoria___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"BMW M3 GT-R e46",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/GM%20D%20Series%203%20Jeep/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/tankmelonpack/Royal%20Tiger%20or%20Tiger%202/Tiger_2_P___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"GM D Series 3 Jeep",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/tankmelonpack/Save%20-%20Churchill%202/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/GM%20D%20Series%203%20Jeep/GM_D_Series_3___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"GM S Series 13",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/GM%20S%20Series%2013/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/GM%20S%20Series%2013/GM_S_Series_13___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Military pickup truck M-1 Hercules",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/Military%20pickup%20truck%20M-1%20Hercules/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/Military%20pickup%20truck%20M-1%20Hercules/M1_Hercules___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"Peugeot 406",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/Peugeot%20406%20restyle%E2%80%8B/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/Peugeot%20406%20restyle%E2%80%8B/Peugeot_406_restyle___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"Save - Audi RS6",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/Save%20-%20Audi%20RS6/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/Save%20-%20Audi%20RS6/audi_rs6___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"Save - Audi S8",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/Save%20-%20Audi%20S8/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/Save%20-%20Audi%20S8/audi_s8___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Save - truck",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/Save%20-%20truck/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/Save%20-%20truck/truck_maks4672___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"Save - Vaz 2109",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/Save%20-%20Vaz%202109/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/Save%20-%20Vaz%202109/VAZ2109___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"T62",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/Save%20-%20Vaz%202109/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/Save%20-%20Vaz%202109/VAZ2109___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":14,
+      "name":"Subaru Forester 2002",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/Subaru%20Forester%202002/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/Subaru%20Forester%202002/subaru_forest_test___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":15,
+      "name":"Uaz 469",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/carmelonpck/Uaz%20469/uaz_469___.zip",
+      "download":"https://sveg.xyz/mapzuu/carmelonpck/Uaz%20469/uaz_469___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
