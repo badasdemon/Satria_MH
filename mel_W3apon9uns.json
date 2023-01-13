@@ -1,0 +1,160 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"30 SECRET WEAPONS",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/30%20SECRET%20WEAPONS/gun89-e1670211611879.jpg",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/30%20SECRET%20WEAPONS/WeaponPlusByMaxAndKaKTyC.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"Antiaircraft",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/antiaircraft/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/antiaircraft/a024c914486f95423fe1c8385343f2c7094721.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"Antiaircraft gun",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/Antiaircraft%20gun/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/Antiaircraft%20gun/8d259c2cf5051f5adfe4ca7fcdec8f9f143411.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Homemade gun",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/Homemade%20gun/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/Homemade%20gun/24ac2c43c298a7a55e8197e06bbccd45162826.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Ice Weapons",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/Ice%20Weapons/20221023024250-6354aa2aa0485.jpg",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/Ice%20Weapons/Black_Ice_Bundle_V1hjvohojqegl.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Laser sights",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/Laser%20sights/20221023024225-6354aa11c0ff9.jpg",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/Laser%20sights/20221023024225-6354aa11c0ff9.jpg",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Light lances",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/Light%20lances/20221023000320-635484c8924ba.jpg",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/Light%20lances/lightsaber_modpack2i320p12thoj.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"Machine gun Maxim",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/Machine%20gun%20Maxim/20221023023545-6354a88158076.jpg",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/Machine%20gun%20Maxim/maximmachinegunf4dkazt4dvj.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"Pack of weapons",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/Pack%20of%20weapons/20221023024256-6354aa30dc5c9.jpg",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/Pack%20of%20weapons/GunsModPackztlajhp3fk5.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"rocket gun",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/rocket%20gun/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/rocket%20gun/4a879fb6612fd9ba04ea350973b5529f163215.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Secret Guns",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/Secret%20Guns/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/Secret%20Guns/Secretguns18.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"Unusual weapon",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/Unusual%20weapon/20221023024203-6354a9fb6bdf5.jpg",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/Unusual%20weapon/Unusual%20weapons%20pack%201.0%20by%20rokpiwl%20zpfhkmnhep2.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"Weapon pack",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/Weapon%20pack/20221023024309-6354aa3dbda8a.jpg",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/Weapon%20pack/weaponsmeiivq1jvnm1p.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":14,
+      "name":"Weapons guns",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/Weapons%20guns/20221023024120-6354a9d071046.jpg",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/Weapons%20guns/stalker-guns-5ggxd3rcofd.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":15,
+      "name":"Flamethrower",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/weapongunmelon/Flamethrower/20221023024234-6354aa1a1dd87.jpg",
+      "download":"https://sveg.xyz/mapzuu/weapongunmelon/Flamethrower/Flamethower-1o3ie1tqsi5m.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
