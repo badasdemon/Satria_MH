@@ -1,0 +1,152 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"A small village houses",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/housemelonpack/A%20small%20village%20houses/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/A%20small%20village%20houses/e64b69a47000bceae991300f07a269bc180052.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"Big house",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/housemelonpack/Big%20house/20221023024246-6354aa2630521.jpg",
+      "download":"https://sveg.xyz/mapzuu/zombiemelonpack/Madness%20Combat/MadnessCombat.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"Mega Monster",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/Mega%20Monster/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/Big%20house/big%20houselotuckxnpby.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Big house Mod",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/housemelonpack/Big%20house%20Mod/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/Big%20house%20Mod/796b5eee03df9a8d40d1c830208f816d154038.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Classic house",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/housemelonpack/Classic%20house/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/Classic%20house/b41f1e120bec98ea402249b08a23c2eb183915.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Decorations",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/housemelonpack/Decorations/20221023024219-6354aa0bd00ce.jpg",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/Decorations/mod_na_dekoratsiimpdpnru3nav.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Fighting House",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/housemelonpack/fighting%20house/20221023023544-6354a880ae7f2.jpg",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/fighting%20house/boevoi_hous%E2%80%8Bsvr5tjhegtc.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"Hi-Tech two-story house",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/housemelonpack/Hi-Tech%20two-story%20house/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/Hi-Tech%20two-story%20house/9c24a26d0d801c37987e3af3a5f46e19114615.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"House by",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/housemelonpack/House%20by%20b1braa/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/House%20by%20b1braa/5b196ee947e331d57624f3089ddbd86d182458.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"Japanese Traditional House",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/housemelonpack/Japanese%20Traditional%20House/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/Japanese%20Traditional%20House/a94196beada6307427099b84bec79eb7154639.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Pack of household",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/housemelonpack/Pack%20of%20household/20221023023546-6354a88261058.jpg",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/Pack%20of%20household/techm3cz2kwyzu3.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"Storey house",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/housemelonpack/Storey%20house/20221023024225-6354aa112bee1.jpg",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/Storey%20house/Housevibiqnkog32.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"Tiny Furniture",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/housemelonpack/Tiny%20Furniture/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/Tiny%20Furniture/Tiny%20Furniture%20by%20rokpiwl%20ver%204.1ihyie2pkl12.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":14,
+      "name":"Two-storey house",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/housemelonpack/Two-storey%20house/20221023000157-635484756af71.jpg",
+      "download":"https://sveg.xyz/mapzuu/housemelonpack/Two-storey%20house/dom_1l4qpo1vytqq.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
