@@ -1,0 +1,144 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Forest Monster",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/Forest%20Monster/20221023023550-6354a8866a2f1.jpg",
+      "download":"https://sveg.xyz/mapzuu/zombiemelonpack/Forest%20Monster/lesnoumonstrakfhkierm3c.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"Madness Combat",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/Madness%20Combat/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/zombiemelonpack/Madness%20Combat/MadnessCombat.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"Mega Monster",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/Mega%20Monster/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/zombiemelonpack/Mega%20Monster/8c73d0c052e006ad56debd76380695f6181927.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Metal Bat",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/Metal%20Bat/20221023024253-6354aa2d0baaf.jpg",
+      "download":"https://sveg.xyz/mapzuu/zombiemelonpack/Metal%20Bat/metal%20butkm3gpwezogo.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Monster SCP",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/Monster%20SCP/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/zombiemelonpack/Monster%20SCP/07cc2198e4d7ccc6deefdf8a56413256175806.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"My singing monsters",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/My%20singing%20monsters/My-singing-monsters.jpg",
+      "download":"https://sveg.xyz/mapzuu/zombiemelonpack/My%20singing%20monsters/my_singing_nonster.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Night monster",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/Night%20monster/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/zombiemelonpack/Night%20monster/b122a8fce35a1953899502e4ed4fa98f171921.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"The Backstage Monster",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/The%20Backstage%20Monster/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/zombiemelonpack/The%20Backstage%20Monster/9bddf7090828e5edbe55b7f9eb4cb60a191549.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"They are coming",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/They%20are%20coming/20221023023550-6354a886c02c4.jpg",
+      "download":"https://sveg.xyz/mapzuu/zombiemelonpack/They%20are%20coming/they-are-comingo2d3rmzneag.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"TITANOBOA AND WORM MONSTER snake",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/TITANOBOA%20AND%20WORM%20MONSTER%20snake/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/zombiemelonpack/TITANOBOA%20AND%20WORM%20MONSTER%20snake/TITANOBOAANDWORMMONSTER.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Zombie",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/Zombie/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/zombiemelonpack/Zombie/e175b421f30dae4896cde98b432bb3b3182945.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"Zombie Apocalypse",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/Zombie%20Apocalypse/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/zombiemelonpack/Zombie%20infect/b0bc1df2bb95b8b3d6f071b09b472768143544.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"Zombie infect",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/zombiemelonpack/Zombie%20infect/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/swordmelonpack/weapons%20from%20Block%20Strike/block_strike___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
