@@ -1,0 +1,88 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Flags of 12 countries",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/flagmelonpack/Flags%20of%2012%20countries/20221023024247-6354aa279486a.jpg",
+      "download":"https://sveg.xyz/mapzuu/flagmelonpack/Flags%20of%2012%20countries/countries1pwnat5hdg13.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"Flags – America USSR Poland",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/flagmelonpack/Flags%20%E2%80%93%20America%20USSR%20Poland/20221023024248-6354aa28791a4.jpg",
+      "download":"https://sveg.xyz/mapzuu/flagmelonpack/Flags%20%E2%80%93%20America%20USSR%20Poland/Flagsk5zgstq1pns.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"Red flag heavy rocket",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/flagmelonpack/Red%20flag%20heavy%20rocket/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/flagmelonpack/Red%20flag%20heavy%20rocket/1ed337cf0608be50e756cd0ce7cd150d153434.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Russian and Ukrainian flags",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/flagmelonpack/Russian%20and%20Ukrainian%20flags/20221023024244-6354aa24dd480.jpg",
+      "download":"https://sveg.xyz/mapzuu/flagmelonpack/Russian%20and%20Ukrainian%20flags/flagisepi32ddj2n.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Russian German and Ukrainian flags",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/flagmelonpack/Russian%20German%20and%20Ukrainian%20flags/20221023024226-6354aa125eeaa.jpg",
+      "download":"https://sveg.xyz/mapzuu/flagmelonpack/Russian%20German%20and%20Ukrainian%20flags/flagkvcu1oifzje.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"War mod with flag",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/flagmelonpack/War%20mod%20with%20flag/20221023024306-6354aa3af34d8.jpg",
+      "download":"https://sveg.xyz/mapzuu/flagmelonpack/War%20mod%20with%20flag/Huge_War_military_modpackow4egxloddr.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
