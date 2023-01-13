@@ -1,0 +1,152 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Creepy Items",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/Creepy%20Items/20221023024227-6354aa134d823.jpg",
+      "download":"https://sveg.xyz/mapzuu/creepymodpack/Creepy%20Items/kultq0rujgizlt3.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"Creepypasta",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/Creepypasta/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/creepymodpack/Creepypasta/9fbb820db464e20825bd130627332b9b113051.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"Crippy Pack",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/Crippy%20Pack/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/creepymodpack/Crippy%20Pack/6f29324a154138e312cf6061c1e3716f173325.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Forest Monster",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/forest%20monster/20221023023550-6354a8866a2f1.jpg",
+      "download":"https://sveg.xyz/mapzuu/mapzuu/creepymodpack/forest%20monster/lesnoumonstrakfhkierm3c.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Jason and Freddy Krueger",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/Jason%20and%20Freddy%20Krueger/20221023024240-6354aa20369eb.jpg",
+      "download":"https://sveg.xyz/mapzuu/creepymodpack/Jason%20and%20Freddy%20Krueger/Jason%20vs%20CRUFm2viye3pn5m.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Monster SCP",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/Monster%20SCP/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/creepymodpack/Monster%20SCP/07cc2198e4d7ccc6deefdf8a56413256175806.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"My singing monsters",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/My%20singing%20monsters/My-singing-monsters.jpg",
+      "download":"https://sveg.xyz/mapzuu/creepymodpack/My%20singing%20monsters/my_singing_nonster.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"Night monster",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/Night%20monster/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/creepymodpack/Night%20monster/b122a8fce35a1953899502e4ed4fa98f171921.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"NPC Jason Voorhees",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/NPC%20Jason%20Voorhees/20221023024145-6354a9e9d610f.jpg",
+      "download":"https://sveg.xyz/mapzuu/creepymodpack/NPC%20Jason%20Voorhees/Jason%20Voorhiesvmthi5hr4at.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"The Backstage Monster",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/The%20Backstage%20Monster/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/creepymodpack/The%20Backstage%20Monster/9bddf7090828e5edbe55b7f9eb4cb60a191549.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Zombie",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/Zombie/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/creepymodpack/Zombie/e175b421f30dae4896cde98b432bb3b3182945.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"Zombie Apocalypse",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/Zombie%20Apocalypse/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/creepymodpack/Zombie%20Apocalypse/0c5aff55b2955c955c9191da8b9625ff184103.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"Zombie infect",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/Zombie%20infect/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/creepymodpack/Zombie%20infect/b0bc1df2bb95b8b3d6f071b09b472768143544.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":14,
+      "name":"Mega Monster",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/creepymodpack/Mega%20Monster/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/creepymodpack/Mega%20Monster/8c73d0c052e006ad56debd76380695f6181927.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
