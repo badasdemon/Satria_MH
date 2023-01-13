@@ -1,0 +1,160 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Aircraft carrier Zeus",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/Aircraft%20carrier%20Zeus/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/Aircraft%20carrier%20Zeus/88282727272626717181___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"An ordinary two-storey house",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/An%20ordinary%20two-storey%20house/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/An%20ordinary%20two-storey%20house/House_2___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"Cable car",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/Cable%20car/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/Cruiser/creaser___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Cruiser",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/Cruiser/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/fightermelonpack/F35%20fighter/9a5252529408859f1d2a081266d4223b112513.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Grocery store",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/Grocery%20store/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/Grocery%20store/magazin_apple_trio___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Large house",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/Large%20house/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/Large%20house/BIG_HOUSE___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Pack for multiple buildings",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/Pack%20for%20multiple%20buildings/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/Pack%20for%20multiple%20buildings/Dont_see_projects___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"Satellite Laser",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/Satellite%20Laser/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/Satellite%20Laser/sputnik.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"Secret Military Laboratory",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/Secret%20Military%20Laboratory/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/Secret%20Military%20Laboratory/secret_big_baaza2___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"Secret missile base",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/Secret%20missile%20base/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/Secret%20missile%20base/SRD_secret___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Simple wooden house",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/Simple%20wooden%20house/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/Simple%20wooden%20house/wooden_house___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"The Avengers Building",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/The%20Avengers%20Building/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/The%20Avengers%20Building/Avengers___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"The mountain",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/The%20mountain/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/The%20mountain/gora___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":14,
+      "name":"USSR ship Aurora",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/USSR%20ship%20Aurora/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/USSR%20ship%20Aurora/AVRORA___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":15,
+      "name":"Village house",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/buildingmelonpack/Village%20house/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/buildingmelonpack/Village%20house/village_housw___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
