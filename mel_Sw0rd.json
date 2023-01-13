@@ -1,0 +1,144 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Blade Murasama",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/swordmelonpack/Blade%20Murasama/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/swordmelonpack/Dark%20Samurai/Dark%20Samurai2arcikfbw21.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":2,
+      "name":"Dark Samurai",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/swordmelonpack/Dark%20Samurai/20221023024139-6354a9e33e8db.jpg",
+      "download":"https://sveg.xyz/mapzuu/soldiermodmelon/G.O.C%20soldier/39e4d640b95266b80da5938b2d29d4ea172054.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":3,
+      "name":"Future Japan Pak",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/swordmelonpack/Future%20Japan%20Pak/20221023024133-6354a9ddaa9e4.jpg",
+      "download":"https://sveg.xyz/mapzuu/swordmelonpack/Future%20Japan%20Pak/japan_of_the_future_from_yadze_kamikadze_dtik97gvjhcvmirpu.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":4,
+      "name":"Ghost killing blade",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/swordmelonpack/Ghost%20killing%20blade/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/swordmelonpack/Ghost%20killing%20blade/2dc4360e9a9db69fef08ac52ee6b0d53150307.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Knives",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/swordmelonpack/Knives/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/swordmelonpack/Knives/BSKnifes2.0.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":6,
+      "name":"Masked Knight Sword",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/swordmelonpack/Masked%20Knight%20Sword/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/swordmelonpack/Masked%20Knight%20Sword/bd413949c974c2f8f3eacd2d39dd4c40151916.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":7,
+      "name":"Outcast Samurai",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/swordmelonpack/Outcast%20Samurai/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/swordmelonpack/Outcast%20Samurai/b0b4e851f661d5cbcd1b1c62e30731d4112826.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":8,
+      "name":"Swords",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/swordmelonpack/Swords/20221023024214-6354aa0690104.jpg",
+      "download":"https://sveg.xyz/mapzuu/swordmelonpack/Swords/mod%20na%20sword%20from%20terrariax1fxrl0wt54.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":9,
+      "name":"Tanto Malachite",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/swordmelonpack/Tanto%20Malachite/20221023024231-6354aa179c6a6.jpg",
+      "download":"https://sveg.xyz/mapzuu/swordmelonpack/Tanto%20Malachite/tanto%201ia4kd3j25y3.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":10,
+      "name":"Terraria Axe",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/swordmelonpack/Terraria%20Axe/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/swordmelonpack/Terraria%20Axe/d8817f9a76cb9a042a1a88fec358ffdb150027.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":11,
+      "name":"Terraria Melee Pack",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/swordmelonpack/Terraria%20Melee%20Pack/20221023024320-6354aa48e8dd7.jpg",
+      "download":"https://sveg.xyz/mapzuu/swordmelonpack/Terraria%20Melee%20Pack/Terraria_Melee_PackV03bhhyht3nfue.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":12,
+      "name":"Terrarias Murasama",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/swordmelonpack/Terrarias%20Murasama/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/swordmelonpack/Terrarias%20Murasama/Murasama.zip",
+      "description":"file:///android_asset/ueuew.html"
+    },
+    {
+      "id":13,
+      "name":"weapons from Block Strike",
+      "category":"Mods",
+      "image":"https://sveg.xyz/mapzuu/swordmelonpack/weapons%20from%20Block%20Strike/Capture.JPG",
+      "download":"https://sveg.xyz/mapzuu/swordmelonpack/weapons%20from%20Block%20Strike/block_strike___.zip",
+      "description":"file:///android_asset/ueuew.html"
+    }
+  ]
+}
